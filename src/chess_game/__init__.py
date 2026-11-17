@@ -1,0 +1,1 @@
+"""Startpakket voor Chess."""
